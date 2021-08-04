@@ -1,0 +1,4 @@
+META-INF\MANIFEST.MF
+META-INF\maven\com.spring_boot_unit_testing_demo\Spring_Boot_Unit_Testing_Demo\pom.properties
+META-INF\maven\com.spring_boot_unit_testing_demo\Spring_Boot_Unit_Testing_Demo\pom.xml
+com\testing\main\SpringBootUnitTestingDemoApplication.class
